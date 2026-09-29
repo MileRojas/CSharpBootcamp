@@ -1,0 +1,14 @@
+C:\Users\miler\PracticasCSharp\obj\Debug\net8.0\PracticasCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miler\PracticasCSharp\obj\Debug\net8.0\PracticasCSharp.AssemblyInfoInputs.cache
+C:\Users\miler\PracticasCSharp\obj\Debug\net8.0\PracticasCSharp.AssemblyInfo.cs
+C:\Users\miler\PracticasCSharp\obj\Debug\net8.0\PracticasCSharp.csproj.CoreCompileInputs.cache
+C:\Users\miler\PracticasCSharp\bin\Debug\net8.0\PracticasCSharp.exe
+C:\Users\miler\PracticasCSharp\bin\Debug\net8.0\PracticasCSharp.deps.json
+C:\Users\miler\PracticasCSharp\bin\Debug\net8.0\PracticasCSharp.runtimeconfig.json
+C:\Users\miler\PracticasCSharp\bin\Debug\net8.0\PracticasCSharp.dll
+C:\Users\miler\PracticasCSharp\bin\Debug\net8.0\PracticasCSharp.pdb
+C:\Users\miler\PracticasCSharp\obj\Debug\net8.0\PracticasCSharp.dll
+C:\Users\miler\PracticasCSharp\obj\Debug\net8.0\refint\PracticasCSharp.dll
+C:\Users\miler\PracticasCSharp\obj\Debug\net8.0\PracticasCSharp.pdb
+C:\Users\miler\PracticasCSharp\obj\Debug\net8.0\PracticasCSharp.genruntimeconfig.cache
+C:\Users\miler\PracticasCSharp\obj\Debug\net8.0\ref\PracticasCSharp.dll

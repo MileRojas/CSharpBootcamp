@@ -1,0 +1,14 @@
+C:\Users\miler\practicas c#\bin\Debug\net8.0\practicas c#.exe
+C:\Users\miler\practicas c#\bin\Debug\net8.0\practicas c#.deps.json
+C:\Users\miler\practicas c#\bin\Debug\net8.0\practicas c#.runtimeconfig.json
+C:\Users\miler\practicas c#\bin\Debug\net8.0\practicas c#.dll
+C:\Users\miler\practicas c#\bin\Debug\net8.0\practicas c#.pdb
+C:\Users\miler\practicas c#\obj\Debug\net8.0\practicas c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miler\practicas c#\obj\Debug\net8.0\practicas c#.AssemblyInfoInputs.cache
+C:\Users\miler\practicas c#\obj\Debug\net8.0\practicas c#.AssemblyInfo.cs
+C:\Users\miler\practicas c#\obj\Debug\net8.0\practicas c#.csproj.CoreCompileInputs.cache
+C:\Users\miler\practicas c#\obj\Debug\net8.0\practicas c#.dll
+C:\Users\miler\practicas c#\obj\Debug\net8.0\refint\practicas c#.dll
+C:\Users\miler\practicas c#\obj\Debug\net8.0\practicas c#.pdb
+C:\Users\miler\practicas c#\obj\Debug\net8.0\practicas c#.genruntimeconfig.cache
+C:\Users\miler\practicas c#\obj\Debug\net8.0\ref\practicas c#.dll

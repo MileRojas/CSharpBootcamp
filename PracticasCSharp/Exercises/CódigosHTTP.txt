@@ -1,0 +1,11 @@
+            Códigos HTTP así
+            
+Situación	                            Respuesta típica
+
+Todo correcto	                        200 OK
+Creaste algo	                        201 Created
+No existe el recurso	                404 Not Found
+Request incorrecto	                    400 Bad Request
+No autenticado	                        401 Unauthorized
+Sin permisos	                        403 Forbidden
+Error inesperado del servidor	        500 Internal Server Error
