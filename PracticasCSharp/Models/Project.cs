@@ -1,10 +1,23 @@
 namespace PracticasCSharp.Models;
 public class Project
 {
-    public int Id { get; set; }
-    public string Name { get; set; }
-    public bool IsActive { get; set; }
-    public string Country { get; set; }
-    public int NumberOfDevelopers { get; set; }
+    public int Id { get; private set; }
+    public string Name { get; private set; }
+    public bool IsActive { get; private  set; }
+    public string Country { get; private set; }
+    public int NumberOfDevelopers { get; private set; }
+
+    public void AddDeveloper()
+    {
+        NumberOfDevelopers++;
+    }
+
+    public void RemoveDeveloper()
+    {
+        if (NumberOfDevelopers > 0)
+        {
+            NumberOfDevelopers--;
+        }
+    }
 
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miler\\PracticasCSharp\\PracticasCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\miler\\OneDrive\\Documents\\GitHub\\CSharpBootcamp\\PracticasCSharp\\PracticasCSharp.csproj",
       "projectName": "PracticasCSharp",
-      "projectPath": "C:\\Users\\miler\\PracticasCSharp\\PracticasCSharp.csproj",
+      "projectPath": "C:\\Users\\miler\\OneDrive\\Documents\\GitHub\\CSharpBootcamp\\PracticasCSharp\\PracticasCSharp.csproj",
       "packagesPath": "C:\\Users\\miler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\miler\\PracticasCSharp\\obj\\",
+      "outputPath": "C:\\Users\\miler\\OneDrive\\Documents\\GitHub\\CSharpBootcamp\\PracticasCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\miler\\AppData\\Roaming\\NuGet\\NuGet.Config",
