@@ -1,5 +1,6 @@
 using PracticasCSharp.Models;
 using PracticasCSharp.Repositories;
+using PracticasCSharp.DTOs;
 
 namespace PracticasCSharp.Services;
 public class ProjectService : IProjectService
@@ -20,5 +21,21 @@ public class ProjectService : IProjectService
     {
         var projects = await _projectRepository.GetProjectsByNameAsync(name);
         return projects;
+    }
+    public async Task<PageResult<ProjectDto>> GetProjectsAsync(ProjectFilter filter)
+    {
+        var result = await _projectRepository.GetProjectsAsync(filter);
+
+        return new PageResult<ProjectDto>
+        {
+            Items = result.Items.Select(x => new ProjectDto
+            {
+                Name = x.Name,
+                Country = x.Country
+            }),
+            TotalCount = result.TotalCount,
+            Page = result.Page,
+            PageSize = result.PageSize
+        };
     }
 }
