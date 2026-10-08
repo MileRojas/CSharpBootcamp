@@ -1,4 +1,5 @@
 using PracticasCSharp.Data;
+using PracticasCSharp.DTOs;
 using PracticasCSharp.Models;
 
 namespace PracticasCSharp.Repositories;
